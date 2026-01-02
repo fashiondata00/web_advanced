@@ -1,0 +1,7 @@
+{
+  "name": "NEO-CYBER Fashion",
+  "description": "A high-end tech-fashion website blending brutalist typography, 3D interactive robots, and AI-driven style curation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
